@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1RM3GN302vt47d62zd8sKlsL2XgXhzu-C
 """
 
-# Monta Google Drive
+# Montar google
 from google.colab import drive
 drive.mount('/content/drive')
 

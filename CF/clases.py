@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import anderson
 
 # Librerías externas
-#!pip install surprise
+!pip install surprise
 from surprise import Reader, Dataset
 from surprise.model_selection import train_test_split
 from surprise import accuracy
