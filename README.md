@@ -1,1 +1,0 @@
-Small FO recommendation model
