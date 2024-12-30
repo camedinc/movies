@@ -137,10 +137,6 @@ Para el usuario **3070**, las recomendaciones generadas son:
 | The Godfather             | Crime, Drama      | 4.8                 |
 | Pulp Fiction              | Crime, Thriller   | 4.7                 |
 
-### **Visualizaciones**
-Se generan gráficos como el siguiente histograma de la distribución de ratings:  
-![Histograma](results/visualizations/rating_distribution.png)
-
 ---
 
 ## **7. Referencias y Créditos**
