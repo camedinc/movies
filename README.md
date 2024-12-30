@@ -4,18 +4,6 @@ Este proyecto implementa un **sistema de recomendación de películas** basado e
 
 ---
 
-## **Índice**
-
-1. [Descripción General](#1-descripción-general)  
-2. [Estructura del Proyecto](#2-estructura-del-proyecto)  
-3. [Requisitos del Sistema](#3-requisitos-del-sistema)  
-4. [Pipeline del Proyecto](#4-pipeline-del-proyecto)  
-5. [Instrucciones de Uso](#5-instrucciones-de-uso)  
-6. [Ejemplo de Resultados](#6-ejemplo-de-resultados)  
-7. [Referencias y Créditos](#7-referencias-y-créditos)  
-
----
-
 ## **1. Descripción General**
 
 Los sistemas de recomendación son herramientas esenciales para personalizar la experiencia del usuario en plataformas digitales. Este proyecto aplica técnicas de **filtrado colaborativo** para analizar patrones de preferencia de los usuarios y recomendar películas basándose en sus valoraciones previas.
