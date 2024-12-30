@@ -155,4 +155,3 @@ Se generan gráficos como el siguiente histograma de la distribución de ratings
 
 - **Inspiración:**  
   Este proyecto está inspirado en los sistemas de recomendación utilizados por plataformas como Netflix y Amazon.
-```
