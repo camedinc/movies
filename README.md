@@ -1,4 +1,3 @@
-```markdown
 # **Movies: Sistema de Recomendación de Películas**
 
 Este proyecto implementa un **sistema de recomendación de películas** basado en **filtrado colaborativo** utilizando el dataset **MovieLens**. Se incluye un pipeline completo que abarca desde la carga y limpieza de datos hasta la implementación de un modelo basado en **SVD (Singular Value Decomposition)**, para generar recomendaciones personalizadas.
@@ -156,6 +155,4 @@ Se generan gráficos como el siguiente histograma de la distribución de ratings
 
 - **Inspiración:**  
   Este proyecto está inspirado en los sistemas de recomendación utilizados por plataformas como Netflix y Amazon.
-
----
 ```
